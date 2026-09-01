@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navber{
+    display: flex;
+    justify-content:space-between;
+    background-color: #1A1A2E;
+    padding: 15px 30px;
+     color: white;
+}
+.navber .logo {
+   font-size: 22px;
+   font-weight: bold;
+
+}
+.navber .logo .forge{
+    color: #FF6B35;
+}
+.manu{
+     display: flex;
+    gap: 10px;
+}
+.manu a{
+    text-decoration: none;
+    color: white;
+}
+
+.navber button{
+  color: white;
+  background-color: #FF6B35;
+  border: none;
+  padding: 5px 12px;
+
+}
+
+.banner{
+    background-image: url('');
+}
